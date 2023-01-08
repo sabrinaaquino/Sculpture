@@ -1,4 +1,6 @@
 @mainpage Voxel
 @author Sabrina E.S.A.
 
-### Esse projeto eh a primeira parte do projeto do curso Programacao Avancada.
+### This project is the first part of the Advanced Programming course project.
+
+This is writing a .off file with the dimentions we need for a determined sculpture
